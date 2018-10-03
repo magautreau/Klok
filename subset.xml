@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" yahoo:count="1" yahoo:created="2017-12-11T18:17:43Z" yahoo:lang="en-US">
+  <results>
+    <channel>
+      <yweather:units xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" distance="km" pressure="mb" speed="km/h" temperature="C"/>
+      <title>Yahoo! Weather - Montreal, QC, CA</title>
+      <link>http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-3534/</link>
+      <description>Yahoo! Weather for Montreal, QC, CA</description>
+      <language>en-us</language>
+      <lastBuildDate>Mon, 11 Dec 2017 01:17 PM EST</lastBuildDate>
+      <ttl>60</ttl>
+      <yweather:location xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" city="Montreal" country="Canada" region=" QC"/>
+      <yweather:wind xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" chill="7" direction="305" speed="11.27"/>
+      <yweather:atmosphere xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" humidity="36" pressure="34337.99" rising="0" visibility="25.91"/>
+      <yweather:astronomy xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" sunrise="7:24 am" sunset="4:11 pm"/>
+      <image>
+        <title>Yahoo! Weather</title>
+        <width>142</width>
+        <height>18</height>
+        <link>http://weather.yahoo.com</link>
+        <url>http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif</url>
+      </image>
+      <item>
+        <title>Conditions for Montreal, QC, CA at 12:00 PM EST</title>
+        <geo:lat xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">45.536491</geo:lat>
+        <geo:long xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">-73.625122</geo:long>
+        <link>http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-3534/</link>
+        <pubDate>Mon, 11 Dec 2017 12:00 PM EST</pubDate>
+        <yweather:condition xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="32" date="Mon, 11 Dec 2017 12:00 PM EST" temp="-9" text="Sunny"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="30" date="11 Dec 2017" day="Mon" high="-2" low="-11" text="Partly Cloudy"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="16" date="12 Dec 2017" day="Tue" high="-3" low="-9" text="Snow"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="14" date="13 Dec 2017" day="Wed" high="-5" low="-12" text="Snow Showers"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="23" date="14 Dec 2017" day="Thu" high="-11" low="-15" text="Breezy"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="30" date="15 Dec 2017" day="Fri" high="-9" low="-17" text="Partly Cloudy"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="28" date="16 Dec 2017" day="Sat" high="-6" low="-13" text="Mostly Cloudy"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="28" date="17 Dec 2017" day="Sun" high="-7" low="-16" text="Mostly Cloudy"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="28" date="18 Dec 2017" day="Mon" high="0" low="-8" text="Mostly Cloudy"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="28" date="19 Dec 2017" day="Tue" high="-15" low="-19" text="Mostly Cloudy"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="30" date="20 Dec 2017" day="Wed" high="-12" low="-21" text="Partly Cloudy"/>
+        <description>&lt;![CDATA[&lt;img src="http://l.yimg.com/a/i/us/we/52/32.gif"/&gt;&lt;BR /&gt;&lt;b&gt;Current Conditions:&lt;/b&gt;&lt;BR /&gt;Sunny&lt;BR /&gt;&lt;BR /&gt;&lt;b&gt;Forecast:&lt;/b&gt;&lt;BR /&gt; Mon - Partly Cloudy. High: -2Low: -11&lt;BR /&gt; Tue - Snow. High: -3Low: -9&lt;BR /&gt; Wed - Snow Showers. High: -5Low: -12&lt;BR /&gt; Thu - Breezy. High: -11Low: -15&lt;BR /&gt; Fri - Partly Cloudy. High: -9Low: -17&lt;BR /&gt;&lt;BR /&gt;&lt;a href="http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-3534/"&gt;Full Forecast at Yahoo! Weather&lt;/a&gt;&lt;BR /&gt;&lt;BR /&gt;&lt;BR /&gt;]]&gt;</description>
+        <guid isPermaLink="false"/>
+      </item>
+    </channel>
+  </results>
+</query>
